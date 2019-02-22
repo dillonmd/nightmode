@@ -1,0 +1,22 @@
+.dark {
+    background: black;
+  }
+
+  .night-btn {
+    position: relative;
+      float: right;
+      margin: 10px;
+      color: black;
+  }
+
+  .dark .night-btn {
+    position: relative;
+    background: var(--base);
+    float: right;
+    margin: 10px;
+    color: white;
+  }
+
+  .dark input {
+    color: white;
+  }
