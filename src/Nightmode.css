@@ -1,22 +1,26 @@
 .dark {
-    background: black;
-  }
+  background: black;
+}
 
-  .night-btn {
-    position: relative;
-      float: right;
-      margin: 10px;
-      color: black;
-  }
+.dark input {
+  color: white;
+}
 
-  .dark .night-btn {
-    position: relative;
-    background: var(--base);
-    float: right;
-    margin: 10px;
-    color: white;
-  }
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
 
-  .dark input {
-    color: white;
-  }
+button {
+  padding: 20px 20px;
+  border-radius: 4px;
+  background: black;
+  color: white;
+}
+
+.dark button {
+  background: white;
+  color: black;
+}
