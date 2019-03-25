@@ -1,2 +1,3 @@
-<h1> nightmode </h1>
+# nightmode
 <p> Night Mode React Component </p>
+<a href="www.nightmode.dillonmd.com">nightmode.dillonmd.com</a>
